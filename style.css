@@ -7263,3 +7263,14 @@ pre {
 html {
     scroll-behavior: smooth;
 }
+
+
+.tp-caption {
+    margin:0;
+ }
+
+@media screen and (max-width: 600px  ) {
+    .tp-caption {
+       margin:0 100px !important;
+    }
+}
