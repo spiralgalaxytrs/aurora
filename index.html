@@ -87,6 +87,24 @@
             cursor: pointer;
             box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
         }
+        @media screen and (max-width: 600px  ) {
+    .tp-caption {
+       margin:0 80px !important;
+    }
+    .section-title{
+        display: none !important;
+    }
+   .show{
+    display: block !important;
+   }    
+}
+
+.section-title{
+    display: inherit;
+}
+.show{
+    display:none ;
+}
     </style>
 </head>
 
@@ -129,8 +147,8 @@
         <div class="rev_slider_wrapper fullscreen-container">
             <div id="slider2" class="rev_slider fullscreenbanner dark-wrapper" data-version="5.4.8">
                 <ul>
-                    <li data-transition="fade bg-overlay">
-                        <div class="video-overlay"></div>
+                    <li data-transition="fade ">
+                      
                         <video autoplay muted class="my_video_boy">
                             <source class=""
                                 src="https://firebasestorage.googleapis.com/v0/b/auroradiaries-d4026.appspot.com/o/auroradiaries%20collage.mp4?alt=media&token=76930b95-c311-4fec-abb1-c8732442ff84"
@@ -200,6 +218,10 @@
         <div class="wrapper light-wrapper">
             <div class="container inner">
                 <h2 class="section-title mb-40 text-center">Our Passion = Your Moments</h2> 
+                <h2 class="show text-center">Our Passion</h2> 
+                <h2 class=" show text-center">=</h2> 
+                <h2 class=" show mb-40 text-center">Your Moments</h2> 
+                
                 <div class="tiles">
                     <div class="items row">
                         <div class="item col-md-6 col-lg-4 order-lg-1">
