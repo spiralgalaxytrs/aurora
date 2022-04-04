@@ -7016,7 +7016,7 @@ pre {
     height: 70px;
     bottom: 30px;
     left: 30px;
-    z-index: 50px;
+    z-index: 999999;
 }
 
 #container-floating:hover {
