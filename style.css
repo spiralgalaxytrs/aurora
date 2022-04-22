@@ -92,13 +92,13 @@ iframe {
 ::-moz-selection {
     background: #fefac7;
     /* Safari */
-    color: #404040;
+    color: #8b7d59;
 }
 
 ::selection {
     background: #fefac7;
     /* Safari */
-    color: #404040;
+    color: #8b7d59;
 }
 
 br {
@@ -234,7 +234,7 @@ h4,
 h5,
 h6 {
     margin-top: 0;
-    color: #404040;
+    color: #8b7d59;
     font-weight: 700;
     letter-spacing: normal;
     margin-bottom: 10px;
@@ -443,7 +443,7 @@ footer .inner {
 }
 
 .light-wrapper {
-    background: #f6f7fa;
+    background: #021321;
 }
 
 .gray-wrapper {
@@ -707,13 +707,13 @@ hr.double {
     margin: 0;
     margin: 12px 10px 0 0;
     text-transform: uppercase;
-    color: #404040;
+    color: #8b7d59;
 }
 
 .dropcap.circle,
 .dropcap.square {
     font-size: 22px;
-    color: #404040;
+    color: #8b7d59;
     height: 45px;
     width: 45px;
     line-height: 45px;
@@ -1172,7 +1172,7 @@ acronym[title] {
     transition: transform .2s ease-in-out;
     -moz-transition: transform .2s ease-in-out;
     -webkit-transition: transform .2s ease-in-out;
-    background: #404040;
+    background: #8b7d59;
 }
 
 .inverse-text .hamburger:before,
@@ -2036,7 +2036,7 @@ video.player {
     padding: 25px;
     background: rgba(255, 255, 255, 0.8);
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.04);
-    color: #404040;
+    color: #8b7d59;
     box-shadow: none;
 }
 
@@ -2145,7 +2145,7 @@ video.player {
 
 .flickity-button {
     background: rgba(255, 255, 255, 0.8);
-    color: #404040;
+    color: #8b7d59;
     border-radius: 100%;
     width: 42px;
     height: 42px;
@@ -2448,7 +2448,7 @@ video.player {
 }
 
 .cbp-item a {
-    color: #404040;
+    color: #8b7d59;
     transition: color 150ms ease-in-out;
 }
 
@@ -2582,7 +2582,7 @@ a.more:after {
     left: 50%;
     margin-left: 0;
     right: auto;
-    color: #404040 !important;
+    color: #8b7d59 !important;
     text-align: center;
     display: table;
     font-size: 14px;
@@ -2749,7 +2749,7 @@ a.more:after {
 .cbp-nav-bg .cbp-nav-prev {
     background: rgba(255, 255, 255, 0.8);
     box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.04);
-    color: #404040;
+    color: #8b7d59;
     border-radius: 100%;
     width: 42px;
     height: 42px;
@@ -2846,7 +2846,7 @@ a.more:after {
 .ares.tparrows:before {
     font-family: 'Missio';
     font-size: 20px;
-    color: #404040;
+    color: #8b7d59;
     line-height: 42px;
 }
 
@@ -2859,7 +2859,7 @@ a.more:after {
 }
 
 .ares.tparrows:hover:before {
-    color: #404040;
+    color: #8b7d59;
 }
 
 .inverse-arrows .ares.tparrows {
@@ -3049,7 +3049,7 @@ a.more:after {
 .gyges .tp-tab-title {
     display: block;
     text-align: left;
-    color: #404040;
+    color: #8b7d59;
     font-size: 18px;
     font-weight: 700;
     text-transform: none;
@@ -3078,7 +3078,7 @@ a.more:after {
     background: rgba(255, 255, 255, 0.8);
     min-width: 42px;
     min-height: 42px;
-    color: #404040;
+    color: #8b7d59;
     font-size: 14px;
     box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.04);
     transition: background-color 150ms ease-in-out !important;
@@ -3086,7 +3086,7 @@ a.more:after {
 
 .video-control:hover {
     background: rgba(255, 255, 255, 1) !important;
-    color: #404040 !important;
+    color: #8b7d59 !important;
 }
 
 
@@ -3276,7 +3276,7 @@ footer [class*="col-"] .widget:first-child {
 }
 
 .pagination:not(.bg) ul>li>a {
-    color: #404040;
+    color: #8b7d59;
 }
 
 .pagination ul>li>a>i {
@@ -3312,7 +3312,7 @@ footer [class*="col-"] .widget:first-child {
 }
 
 .pagination.bg ul>.active>a[class*="btn-pastel-"] span {
-    border-color: #404040;
+    border-color: #8b7d59;
 }
 
 .pagination ul>li>a {
@@ -3337,7 +3337,7 @@ footer [class*="col-"] .widget:first-child {
 }
 
 .arrow-link:not(.bg) a {
-    color: #404040
+    color: #8b7d59
 }
 
 .arrow-link:not(.bg) a:hover {
@@ -3456,7 +3456,7 @@ figure.overlay img {
 
 .overlay.light figcaption *,
 .overlay.color-pastel figcaption * {
-    color: #404040 !important;
+    color: #8b7d59 !important;
 }
 
 .overlay img {
@@ -3574,7 +3574,7 @@ figure.overlay img {
 
 .overlay3.light:before,
 .overlay3.light:after {
-    background-color: #404040;
+    background-color: #8b7d59;
 }
 
 .overlay3:before {
@@ -3883,7 +3883,7 @@ figure.overlay img {
     line-height: 20px;
     letter-spacing: 0;
     font-weight: 700;
-    color: #404040;
+    color: #8b7d59;
     margin-right: 25px;
     border: 0;
     border-radius: 0;
@@ -3964,7 +3964,7 @@ figure.overlay img {
 }
 
 .accordion-wrapper .card-header a {
-    color: #404040;
+    color: #8b7d59;
     display: block;
 }
 
@@ -4063,7 +4063,7 @@ figure.overlay img {
 
 .popover-header {
     background-color: #FFF;
-    color: #404040;
+    color: #8b7d59;
     padding: 15px 25px 5px;
     border: 0;
     border-top-left-radius: calc(4px - 1px);
@@ -5139,7 +5139,7 @@ select {
 
 label:not(.custom-control-label) {
     font-weight: 700;
-    color: #404040;
+    color: #8b7d59;
 }
 
 label input,
@@ -5353,7 +5353,7 @@ textarea.error {
     font-family: 'FontAwesome';
     content: "\f078";
     display: block;
-    color: #404040;
+    color: #8b7d59;
     font-size: 12px;
     pointer-events: none;
 }
@@ -5560,7 +5560,7 @@ pre {
     padding: 0;
     height: 48px;
     width: 40px;
-    color: #404040;
+    color: #8b7d59;
     float: left;
     font-size: 36px;
     padding-top: 6px;
@@ -5597,7 +5597,7 @@ pre {
 .color-dark,
 .list-dark>li:before,
 .list-dark i {
-    color: #404040;
+    color: #8b7d59;
 }
 
 .color-red,
