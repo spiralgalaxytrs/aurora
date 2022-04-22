@@ -5645,7 +5645,7 @@ pre {
 .color-meander,
 .list-meander>li:before,
 .list-meander i {
-    color: #98bec8
+    color: rgb(139, 125, 89)
 }
 
 .color-blue,
@@ -7273,4 +7273,9 @@ html {
     .tp-caption {
        margin:0 80px !important;
     }
+}
+
+
+.white{
+    color:#fff !important;
 }
