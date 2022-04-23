@@ -373,6 +373,7 @@ h2.post-title {
     font-size: 28px;
     line-height: 40px;
     margin-bottom: 20px;
+    color: #cfa48b;
     font-family: 'Outfit';
 }
 
@@ -802,6 +803,7 @@ acronym[title] {
 /*-----------------------------------------------------------------------------------*/
 
 .navbar {
+    font-family: 'Outfit'!important;
     z-index: 1008;
     width: 100%;
     padding: 0;
@@ -879,13 +881,13 @@ acronym[title] {
 }
 
 .navbar-nav .nav-link {
-    font-size: 13px;
+    font-size: 18px;
     letter-spacing: 1px;
     font-weight: 700;
     color: #303030;
     padding-top: 17px;
     padding-bottom: 17px;
-    text-transform: uppercase;
+  
 }
 
 .navbar.wide .navbar-nav .nav-link {
@@ -7277,5 +7279,10 @@ html {
 
 
 .white{
-    color:#fff !important;
+    font-family: 'inter';
+    color:aliceblue !important;
+    font-weight: 200 !important;
+}
+.arrow::after{
+    content: '\e900' !important;
 }
