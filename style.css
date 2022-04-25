@@ -431,7 +431,7 @@ a.text-muted:hover {
 
 .inner {
     padding-top: 50px;
-
+padding-bottom: 50px;
 }
 
 footer .inner {
